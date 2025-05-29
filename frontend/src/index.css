@@ -1,7 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
-@import "tailwindcss";
-
-body {
-    font-family: "Afacad Flux", sans-serif;
-    font-style: normal;
-}
